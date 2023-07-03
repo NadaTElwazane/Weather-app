@@ -59,22 +59,25 @@ php vendor/bin/phpunit tests --display-warnings
 <p style="text-align: center; font-weight: bold;">
 
 ![image](./demo/screenshots/1.png)
+
 *Night Mode*
 </p>
 <p>
 
 ![image](./demo/screenshots/3.png)
+
 *Day Mode*
 </p>
 
 **Additional screenshots can be found in the demo/screenshots folder.**
 ## Demo Video
 
-https://github.com/NadaTElwazane/Weather-app/blob/master/demo/videos/video1933436491.mp4
+[![](https://img.youtube.com/vi/9A7M0KgUOao/sddefault.jpg)](https://youtu.be/9A7M0KgUOao)
 
-https://github.com/NadaTElwazane/Weather-app/blob/master/demo/videos/video2643858070.mp4
+[![](https://img.youtube.com/vi/U4qWiFoWWSk/sddefault.jpg)](https://youtu.be/U4qWiFoWWSk)
 
-https://github.com/NadaTElwazane/Weather-app/blob/master/demo/videos/video3899539420.mp4
+[![](https://img.youtube.com/vi/NKZadX-DZQM/sddefault.jpg)](https://youtu.be/NKZadX-DZQM)
+
 
 ## Contributors
 - [Hager Ahmed](https://github.com/hager46)
