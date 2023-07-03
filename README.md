@@ -70,12 +70,11 @@ php vendor/bin/phpunit tests --display-warnings
 **Additional screenshots can be found in the demo/screenshots folder.**
 ## Demo Video
 
-./demo/videos/video1933436491.mp4
+https://github.com/NadaTElwazane/Weather-app/blob/master/demo/videos/video1933436491.mp4
 
-./demo/videos/video2643858070.mp4
+https://github.com/NadaTElwazane/Weather-app/blob/master/demo/videos/video2643858070.mp4
 
-./demo/videos/video3899539420.mp4
-
+https://github.com/NadaTElwazane/Weather-app/blob/master/demo/videos/video3899539420.mp4
 
 ## Contributors
 - [Hager Ahmed](https://github.com/hager46)
