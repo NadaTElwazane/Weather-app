@@ -1,0 +1,1 @@
+INSERT INTO `registereduser` (`fname`, `lname`, `email`, `password`, `lon`, `lat`) VALUES ('Jane', 'Doe', 'janedoe@gmail.com', '81dc9bdb52d04dc20036dbd8313ed055', '13.41053', '52.52437');
